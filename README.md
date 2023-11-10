@@ -12,7 +12,7 @@
 
 Online supplementary materials of the paper titled 
 
-**Uncertainty-Aware Bayes' Rule and Its Applications**
+**[Uncertainty-Aware Bayes' Rule and Its Applications](https://arxiv.org/abs/2311.05532)**
    
 By Shixiong Wang
 
