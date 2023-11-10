@@ -1,6 +1,6 @@
 > @Author: WANG Shixiong (Email: <s.wang@u.nus.edu>; <wsx.gugo@gmail.com>)
 
-> @Affiliate: (1)Institute of Data Science, National University of Singapore; (2)Intelligent Transmission and Processing Laboratory, Imperial College London
+> @Affiliate: (1) Institute of Data Science, National University of Singapore; (2) Intelligent Transmission and Processing Laboratory, Imperial College London
 
 > @Acknowledgement: The first version of this paper was done when I was with the Institute of Data Science, National University of Singapore.
 
@@ -16,7 +16,7 @@ Online supplementary materials of the paper titled
    
 By Shixiong Wang
 
-From the (1)Institute of Data Science, National University of Singapore; (2)Intelligent Transmission and Processing Laboratory, Imperial College London
+From the (1) Institute of Data Science, National University of Singapore; (2) Intelligent Transmission and Processing Laboratory, Imperial College London
 
 ***Codes***
 
